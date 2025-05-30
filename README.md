@@ -1,68 +1,131 @@
-# Hello, I'm AlienFromMars 👋 👽
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=👽+Greetings+from+Mars!+🚀;Discord+Bot+Developer+%7C+Future+Full+Stack+Dev;Building+the+future%2C+one+bot+at+a+time..." alt="Typing SVG" />
+</div>
 
-## About Me
-I'm a developer passionate about creating responsive websites and web applications. Welcome to my corner of the GitHub universe!
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AlienFromMars-itzme.AlienFromMars-itzme)
-[![GitHub followers](https://img.shields.io/github/followers/AlienFromMars-itzme?style=social)](https://github.com/AlienFromMars-itzme)
-
-## 🚀 Skills & Technologies
-- **Frontend:** HTML, CSS, JavaScript, Python
-- **Backend:** Node.js, Express, Discord.py
-- **Deployment:** Netlify, Vercel, Render
-- **Tools:** Git, VS Code, npm
-- **Other:** Responsive Web Design, RESTful APIs
-
-## 🌱 Currently Learning
-- Advanced React patterns
-- TypeScript
-- Cloud infrastructure
-- UI/UX design principles
-
-## 💼 Projects
-- [Portfolio Website](https://github.com/AlienFromMars-itzmem/portfolio) - A responsive personal portfolio built with HTML, CSS, and JavaScript
-- [Weather App](https://github.com/AlienFromMars-itzmem/weather-app) - A weather application using a weather API
-- [Task Manager](https://github.com/AlienFromMars-itzmem/task-manager) - A full-stack task management application
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlienFromMars-itzme&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlienFromMars-itzme&layout=compact&theme=radical)
-
-## 📫 Connect With Me
-- [Youtube](https://youtube.com/channels/@ItzFallenMe)
-- [Discord](https://discord.gg/roroa)
-- [Portfolio Website](https://guns.lol/itzmehere)
-- Email: vedanimefan@gmail.com
-
-## 🎯 Goals for 2025
-- Contribute to more open-source projects
-- Build a full-stack application with authentication and database
-- Improve UI/UX design skills
-- Learn a new programming language
-
-## ⚡ Fun Facts
-- I love making discord bots
-- Coffee enthusiast ☕
-- I want to be guy who is reason of someone's smile
-- Always up for a coding challenge
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <strong>Welcome to my galactic coding journey!</strong>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
 
 ---
 
-### 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Deployment-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+## 🛸 About This Alien
+
+```javascript
+const alienFromMars = {
+    currentRole: "Discord Bot Developer",
+    homeBase: "Mars 🔴",
+    currentMission: "Becoming a Full Stack Developer",
+    
+    techStack: {
+        languages: ["Python", "JavaScript", "HTML", "Node.js"],
+        currentlyLearning: ["TypeScript", "CSS"],
+        specialties: ["Discord Bot Development", "Server Automation"]
+    },
+    
+    hobbies: [
+        "🎨 Discord Server Decorating",
+        "⛏️ Mining in Minecraft",
+        "🤖 Building Bots",
+        "🚀 Exploring New Technologies"
+    ],
+    
+    futureGoals: "Conquering Full Stack Development across the galaxy!"
+};
+```
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200">
-</p>
+## 🚀 My Galactic Tech Arsenal
 
-<p align="center">
-  <i>Thanks for visiting my profile! Feel free to star repositories you find interesting.</i>
-</p>
+<div align="center">
+
+### Languages & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Currently Learning
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Specialties
+![Discord](https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Bot Development](https://img.shields.io/badge/Bot_Development-00D26A?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Current Mission Status
+
+```yaml
+🔄 Status: Active Development
+🎯 Primary Objective: Full Stack Developer Transformation
+📚 Learning Queue: 
+  - TypeScript mastery
+  - Advanced CSS techniques
+  - Backend frameworks
+🎮 Side Quests: 
+  - Discord server beautification
+  - Minecraft world building
+  - Bot optimization
+```
+
+---
+
+## 🌌 Connect Across the Galaxy
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://guns.lol/itzmehere)
+[![Bot Dashboard](https://img.shields.io/badge/Bot_Dashboard-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://atrex.vercel.app)
+[![Discord Server](https://img.shields.io/badge/Join_My_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sunraku)
+
+</div>
+
+---
+
+## 📊 Galactic Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlienFromMars-itzme&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlienFromMars-itzme&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlienFromMars-itzme&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" alt="Top Languages"/>
+</div>
+
+---
+
+## 🎮 Fun Facts About This Martian
+
+- 👽 **Origin**: Mars (obviously!)
+- 🤖 **Superpower**: Bringing Discord servers to life with custom bots
+- ⛏️ **Earth Activity**: Building epic structures in Minecraft
+- 🎨 **Creative Side**: Making Discord servers look absolutely stunning
+- 🚀 **Mission**: Bridging the gap between Mars tech and Earth's web development
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+🛸;Feel+free+to+explore+my+repositories;Let's+build+something+amazing+together!+🚀" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=AlienFromMars-itzme&color=blueviolet&style=flat-square)](https://github.com/AlienFromMars-itzme)
+  
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is poetry written in logic, and I'm here to write the next epic! 🌟"</i>
+</div>
