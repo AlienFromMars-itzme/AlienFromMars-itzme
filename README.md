@@ -1,9 +1,6 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👽%20AlienFromMars&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Discord%20Bot%20Developer%20|%20Future%20Full%20Stack%20Engineer&descAlignY=60&descAlign=50"/>
 </div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=🚀+Greetings+from+Mars!;Building+bots+that+think;Learning+full+stack+magic;Code+%7C+Create+%7C+Connect" />
 </div>
 
 ## 🛸 About This Martian Developer
